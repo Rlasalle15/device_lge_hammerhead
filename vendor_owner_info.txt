@@ -197,6 +197,8 @@ system/vendor/lib/libmmcamera2_wnr_module.so:qcom
 system/vendor/lib/libqcci_legacy.so:qcom
 system/vendor/lib/libqdp.so:qcom
 system/vendor/lib/libqmi_client_qmux.so:qcom
+system/vendor/lib/librpmb.so:qcom
 system/vendor/lib/libsensor_reg.so:qcom
+system/vendor/lib/libssd.so:qcom
 system/vendor/lib/libtime_genoff.so:qcom
 system/vendor/lib/libqdi.so:qcom
