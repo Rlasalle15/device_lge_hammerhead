@@ -112,7 +112,7 @@
 
     <!-- Shutdown if the battery temperature exceeds (this value * 0.1) Celsius. -->
     <integer name="config_shutdownBatteryTemperature">600</integer>
-    
+
      <!-- If true, the screen can be rotated via the accelerometer in all 4 rotations as the default behavior. -->
      <bool name="config_allowAllRotations">false</bool>
 
